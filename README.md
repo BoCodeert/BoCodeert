@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bo</h1>
+<h1 align="center">Hi, I'm Bo</h1>
 <h3 align="center">A Software Development student from the Netherlands</h3>
 
 - 🔭 I’m currently working on **Student Progress**
 
 - 🌱 I’m currently learning **Blazor**
-
-- 📫 How to reach me **bovanbetlehem@gmail.com**
 
 - ⚡ Fun fact **We call errors in a computer program "bugs" because in the 1940s, Admiral Grace Hopper once discovered her computer wasn't working because a moth was inside.**
 
