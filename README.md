@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Bo</h1>
 <h3 align="center">A Software Development student from the Netherlands</h3>
 
-- 🔭 I’m currently following an internship at **Mr. Smith**
+- 🔭 I’ve just finished my internship at **Mr. Smith** and am currently preparing for finals.
 
-- 🌱 I’m currently learning **NodeJS**, **TypeScript** and **React**.
+- 🌱 I’m currently learning **NTypeScript** and **C#**.
 
-- ⚡ Fun fact: **We call errors in a computer program "bugs" because in the 1940s, Admiral Grace Hopper once discovered her computer wasn't working because a moth was inside.**
+- ⚡ Fun fact: **Python is named after Monty Python.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -40,7 +40,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/bo-van-betlehem-231442346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bo van betlehem" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/bo-van-betlehem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bo van betlehem" height="30" width="40" /></a>
 <a href="https://instagram.com/bozitopinsta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bozitopsinsta" height="30" width="40" /></a>
 </p>
 
