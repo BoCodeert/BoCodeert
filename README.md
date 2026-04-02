@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bo</h1>
 <h3 align="center">A Software Development student from the Netherlands</h3>
 
-- 🔭 I’ve just finished my internship at **Mr. Smith** and am currently preparing for finals.
+- 🔭 I’ve just finished my internship at **Mr. Smith**, am still working there and am currently preparing for finals.
 
 - 🌱 I’m currently learning **NTypeScript** and **C#**.
 
