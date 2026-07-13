@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Bo</h1>
 <h3 align="center">A Software Development student from the Netherlands</h3>
 
-- 🔭 I’ve just finished my internship at **Mr. Smith**, am still working there and am currently preparing for finals.
+- 🔭 I’ve just started my internship at **Technohome BV.**.
 
-- 🌱 I’m currently learning **NTypeScript** and **C#**.
-
-- ⚡ Fun fact: **Python is named after Monty Python.**
+- 🌱 I’m currently learning **TypeScript** and **CH5**.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
