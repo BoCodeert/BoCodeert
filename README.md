@@ -1,10 +1,3 @@
-<h1 align="center">Hi, I'm Bo</h1>
-<h3 align="center">A Software Development student from the Netherlands</h3>
-
-- 🔭 I’ve just started my internship at **Technohome BV.**.
-
-- 🌱 I’m currently learning **TypeScript** and **CH5**.
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
